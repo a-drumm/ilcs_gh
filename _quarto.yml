@@ -98,8 +98,6 @@ format:
     toc-depth: 2
     grid:
       body-width: 1000px
-  pdf:
-    documentclass: scrreprt
 
 
 
