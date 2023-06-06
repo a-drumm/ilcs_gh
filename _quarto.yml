@@ -7,85 +7,97 @@ book:
   date: "5/8/2023"
   chapters:
     - index.qmd
-    - articles/Article 1.qmd
-    - articles/Article 2.qmd
-    - articles/Article 3.qmd
-    - articles/Article 4.qmd
-    - articles/Article 5.qmd
-    - articles/Article 6.qmd
-    - articles/Article 7.qmd
-    - articles/Article 8.qmd
-    - articles/Article 9.qmd
-    - articles/Article 10.qmd
-    - articles/Article 10A.qmd
-    - articles/Article 11.qmd
-    - articles/Article 12.qmd
-    - articles/Article 12A.qmd
-    - articles/Article 12B.qmd
-    - articles/Article 12C.qmd
-    - articles/Article 14.qmd
-    - articles/Article 15.qmd
-    - articles/Article 16.qmd
-    - articles/Article 16A.qmd
-    - articles/Article 16B.qmd
-    - articles/Article 16C.qmd
-    - articles/Article 16D.qmd
-    - articles/Article 16E.qmd
-    - articles/Article 16F.qmd
-    - articles/Article 16G.qmd
-    - articles/Article 16H.qmd
-    - articles/Article 16J.qmd
-    - articles/Article 16K.qmd
-    - articles/Article 17.qmd 
-    - articles/Article 17A.qmd
-    - articles/Article 17B.qmd
-    - articles/Article 18.qmd
-    - articles/Article 19.qmd
-    - articles/Article 20.qmd
-    - articles/Article 20.5.qmd
-    - articles/Article 21.qmd
-    - articles/Article 21.1.qmd
-    - articles/Article 21.2.qmd
-    - articles/Article 21.3.qmd
-    - articles/Article 24.qmd
-    - articles/Article 24.5.qmd
-    - articles/Article 24.6.qmd
-    - articles/Article 24.8.qmd
-    - articles/Article 25.qmd
-    - articles/Article 26.qmd
-    - articles/Article 26.5.qmd
-    - articles/Article 28.qmd
-    - articles/Article 29.qmd
-    - articles/Article 29A.qmd
-    - articles/Article 29B.qmd
-    - articles/Article 29C.qmd
-    - articles/Article 29D.qmd
-    - articles/Article 30.qmd
-    - articles/Article 31.qmd
-    - articles/Article 31A.qmd
-    - articles/Article 32.qmd
-    - articles/Article 33.qmd
-    - articles/Article 33A.qmd
-    - articles/Article 33B.qmd
-    - articles/Article 33C.qmd
-    - articles/Article 33D.qmd
-    - articles/Article 33E.qmd
-    - articles/Article 33F.qmd
-    - articles/Article 33G.qmd
-    - articles/Article 34.qmd
-    - articles/Article 36.qmd
-    - articles/Article 36.5.qmd
-    - articles/Article 37.qmd
-    - articles/Article 37.5.qmd
-    - articles/Article 38.qmd
-    - articles/Article 39.qmd
-    - articles/Article 42.qmd
-    - articles/Article 44.qmd
-    - articles/Article 45.qmd
-    - articles/Article 46.qmd
-    - articles/Article 47.qmd
-    - articles/Article 48.qmd
-    - articles/Article 49.qmd
+    - part: "720 ILCS 5/"
+      chapters:
+        - articles/Article 1.qmd
+        - articles/Article 2.qmd
+        - articles/Article 3.qmd
+        - articles/Article 4.qmd
+        - articles/Article 5.qmd
+        - articles/Article 6.qmd
+        - articles/Article 7.qmd
+        - articles/Article 8.qmd
+        - articles/Article 9.qmd
+        - articles/Article 10.qmd
+        - articles/Article 10A.qmd
+        - articles/Article 11.qmd
+        - articles/Article 12.qmd
+        - articles/Article 12A.qmd
+        - articles/Article 12B.qmd
+        - articles/Article 12C.qmd
+        - articles/Article 14.qmd
+        - articles/Article 15.qmd
+        - articles/Article 16.qmd
+        - articles/Article 16A.qmd
+        - articles/Article 16B.qmd
+        - articles/Article 16C.qmd
+        - articles/Article 16D.qmd
+        - articles/Article 16E.qmd
+        - articles/Article 16F.qmd
+        - articles/Article 16G.qmd
+        - articles/Article 16H.qmd
+        - articles/Article 16J.qmd
+        - articles/Article 16K.qmd
+        - articles/Article 17.qmd 
+        - articles/Article 17A.qmd
+        - articles/Article 17B.qmd
+        - articles/Article 18.qmd
+        - articles/Article 19.qmd
+        - articles/Article 20.qmd
+        - articles/Article 20.5.qmd
+        - articles/Article 21.qmd
+        - articles/Article 21.1.qmd
+        - articles/Article 21.2.qmd
+        - articles/Article 21.3.qmd
+        - articles/Article 24.qmd
+        - articles/Article 24.5.qmd
+        - articles/Article 24.6.qmd
+        - articles/Article 24.8.qmd
+        - articles/Article 25.qmd
+        - articles/Article 26.qmd
+        - articles/Article 26.5.qmd
+        - articles/Article 28.qmd
+        - articles/Article 29.qmd
+        - articles/Article 29A.qmd
+        - articles/Article 29B.qmd
+        - articles/Article 29C.qmd
+        - articles/Article 29D.qmd
+        - articles/Article 30.qmd
+        - articles/Article 31.qmd
+        - articles/Article 31A.qmd
+        - articles/Article 32.qmd
+        - articles/Article 33.qmd
+        - articles/Article 33A.qmd
+        - articles/Article 33B.qmd
+        - articles/Article 33C.qmd
+        - articles/Article 33D.qmd
+        - articles/Article 33E.qmd
+        - articles/Article 33F.qmd
+        - articles/Article 33G.qmd
+        - articles/Article 34.qmd
+        - articles/Article 36.qmd
+        - articles/Article 36.5.qmd
+        - articles/Article 37.qmd
+        - articles/Article 37.5.qmd
+        - articles/Article 38.qmd
+        - articles/Article 39.qmd
+        - articles/Article 42.qmd
+        - articles/Article 44.qmd
+        - articles/Article 45.qmd
+        - articles/Article 46.qmd
+        - articles/Article 47.qmd
+        - articles/Article 48.qmd
+        - articles/Article 49.qmd
+    - part: "625 ICLS 5/"
+      chapters:
+        - articles/Ch. 4 Article I.qmd
+        - articles/Ch. 6 Article III.qmd
+        - articles/Article Ii.qmd
+        - articles/Article Iv.qmd
+        - articles/Article V.qmd
+
+
+
 
 
 
@@ -97,7 +109,8 @@ format:
       - custom.scss
     toc-depth: 2
     grid:
-      body-width: 1000px
+      sidebar-width: 300px
+      body-width: 850px
 
 
 
