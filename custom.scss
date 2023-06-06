@@ -71,10 +71,15 @@ a:hover {
 
 .sidebar-navigation .sidebar-item {
   font-size: .8rem;
-  text-indent: -.5rem;
+  text-indent: -.8rem;
   margin-left: .5rem;
 }
 
 a.sidebar-item-text.sidebar-link.active {
   color: $purple-custom;
+}
+
+.sidebar-navigation .sidebar-item-section .text-start {
+  font-size: .95rem;
+  font-weight: bold;
 }
